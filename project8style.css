@@ -1,0 +1,49 @@
+
+* { font-family: Verdana;
+}
+
+h1 { color: green; 
+     text-align: center;
+}
+
+.table-header { background-color: yellow;
+                border: 3px solid black;
+                padding: 5px;
+                text-align: center;
+                font-weight: bold;
+                height: 30px;
+}
+
+.table { border-collapse: collapse;
+         margin: auto;
+         width: 650px;
+}
+
+.table-rowone { border-style: none dotted dotted dotted;
+                border-color: blue;
+                border-top-color: black;
+                text-align: center;
+                color: red;
+                height: 25px;
+               
+}
+
+.table-row { border-style: dotted;
+             border-color: blue;
+             text-align: center;
+             color: blue;
+             height: 25px;
+}
+
+.table-rowtwo { border-style: dotted;
+                border-color: blue;
+                text-align: center;
+                color: black;
+                font-size: 12px;
+                height: 25px;
+}
+             
+.table-rowthree { border-style: dotted;
+                  border-color: blue;
+                  text-align: center;
+}             
